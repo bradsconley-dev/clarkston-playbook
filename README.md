@@ -2,7 +2,7 @@
 
 An offline basketball play designer for Clarkston Wolves basketball. Draw offensive and defensive plays on the Dan Fife Fieldhouse floor, step through them, animate them and keep a playbook for each team.
 
-Version: v1.0.1-clarkston
+Version: v1.0.2-clarkston
 
 ## Features
 - Half-court and full-court views on the Clarkston floor (a drawn NFHS court is available as a fallback)
